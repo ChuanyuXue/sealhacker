@@ -50,6 +50,6 @@ Result:
 
 该代码免费开源使用，请勿用于违法行为。
 
-This program is open resourced to every user for free, please use this code in compliance with local laws.
+This program is open sourced to every user for free, please use this code in compliance with local laws.
 
 If you have any issue please feel free to contact me at cs_xcy@126.com
