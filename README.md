@@ -20,6 +20,13 @@ This program only works for [RED COLOR] seals.
     ## 结果会生成在自动创建的output目录下，在里面挑选一张你认为最好的输出。
     ## The folder named 'output' will be created and pick your favorite output from this folder.
 
+## Result
+
+待提取文件：
+!(待提取文件)[https://github.com/ChuanyuXue/sealhacker/test.jpg]
+提取结果：
+!(提取结果)[https://github.com/ChuanyuXue/sealhacker/output/out_15_50.png]
+
 ## Dependency requirements
 
     numpy==1.16.3
