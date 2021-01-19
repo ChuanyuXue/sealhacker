@@ -1,7 +1,7 @@
 # sealhacker
 一个基于OpenCV提取印章图案的Python程序。
 
-Extracting digital seal by OpenCV in Python.
+Extracting digital seal with OpenCV in Python.
 
 ## Usage
 确保 sealhacker.py 与你需要提取的文件在同一个目录下。
