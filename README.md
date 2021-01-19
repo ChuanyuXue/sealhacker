@@ -28,7 +28,7 @@ This program only works for [RED COLOR] seals.
 Example:
 
 <div align="center">
-	<img src="https://github.com/ChuanyuXue/sealhacker/blob/main/test.jpg" width="50%">
+	<img src="https://github.com/ChuanyuXue/sealhacker/blob/main/test.jpg" width="10%">
 </div>
 
 
@@ -37,7 +37,7 @@ Example:
 Result:
 
 <div align="center">
-	<img src="https://github.com/ChuanyuXue/sealhacker/blob/main/output/out_15_50.png" width="50%">
+	<img src="https://github.com/ChuanyuXue/sealhacker/blob/main/output/out_15_50.png" width="10%">
 </div>
 
 ## Dependency requirements
