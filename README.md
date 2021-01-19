@@ -28,7 +28,7 @@ This program only works for [RED COLOR] seals.
     
 ## Announcement
 
-该代码免费开源，请勿用于违法行为。
+该代码免费开源使用，请勿用于违法行为。
 
 This program is open resourced to every user for free, please use this code in compliance with local laws.
 
