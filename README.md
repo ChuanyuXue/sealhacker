@@ -25,10 +25,10 @@ This program only works for [RED COLOR] seals.
 
 待提取文件：
 Example:
-![待提取文件](https://github.com/ChuanyuXue/sealhacker/test.jpg)
+![待提取文件](https://github.com/ChuanyuXue/sealhacker/blob/main/test.jpg)
 提取结果：
 Result:
-![提取结果](https://github.com/ChuanyuXue/sealhacker/output/out_15_50.png)
+![提取结果](https://github.com/ChuanyuXue/sealhacker/blob/main/output/out_15_50.png)
 
 ## Dependency requirements
 
